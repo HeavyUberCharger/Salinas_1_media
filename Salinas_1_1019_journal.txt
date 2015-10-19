@@ -1,0 +1,5 @@
+Considering your previous work with for loops and images - Describe
+the likely process for generating algorithmic sound art .
+
+we can have a loop with many different numbers that can alterate the pitch of
+the sound according to how high the number is.
