@@ -1,0 +1,10 @@
+What is a beat? How will you use beats?
+A beat is the basic un it of time in music. I will use beats to have some kind
+of rhythm in my music so its not just a bunch of random sounds
+
+What is a variable?How will you use variables in making music?
+A variable is something that has a fixed pattern. I will use variables to change the
+pitch and beat of my song
+
+What is a datatype as far as programming as described in the pdf?
+A datatype is kinds of ingredients you can use.
