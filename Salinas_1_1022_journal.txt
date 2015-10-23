@@ -1,0 +1,4 @@
+What is a measure? How does it influence the music you program?
+
+measure is a group of beats, that then repeat in a new measure. It influences
+our music by how may times it loops 
