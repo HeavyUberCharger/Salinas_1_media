@@ -1,0 +1,12 @@
+Describe the process for creating an image with Pango.
+How does one create an image with Pango (a markup language)?
+Why would someone create an image or images with a markup language like Pango?
+
+First, I give it the parameter convert to the image.Next, I give it
+ certain parameters for it to follow. and finally I mark what I want the
+  name of the pango image to be. 
+
+
+What successes have you had in making your images?
+I have much success making my images with pango so far, Ive had to
+ real problems trying to figure out what to do. 

@@ -1,0 +1,9 @@
+Question: How can we combine Pango image creation with a for loop? [Be specific]
+ We can combine a far loop to a pango image by adding it in the beginning before
+  convert and list all the variables we want to add in. 
+
+
+How will this help us create, more better art?
+ This will help us create better art by making many pictures at a time
+  with something different between them, and letting select what image we
+   like the most out of the group.

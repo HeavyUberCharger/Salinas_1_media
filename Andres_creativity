@@ -1,0 +1,13 @@
+<markup>
+<span size="50000">Andres Salinas</span>
+
+<big><span fgcolor="red"> <b>What is creativity</b></span> </big>
+
+<big><big><big> creativity</big></big></big> is<s> the aspect of</s>
+taking<small><small> things<span underline="error"> you have</span>
+learned</small></small><span lang="chinese"> or</span> <span gravity = "west"> experienced</span> <tt> and<span gravity="north"> combine</span> </tt><i> or</i>
+alter<span rise="10000"> them<span underline_color = "blue"><u> in your</u> </span> own</span>
+<span rise= "20000"> way to </span><small> <small><small><small> make
+<span rise= "40000"> something</span> new. </small></small></small></small>
+</markup>
+

@@ -1,0 +1,12 @@
+How can you loop through all the possible fonts for image magick? [Be specific]
+
+In order to loop through all the possible fonts in image magick you must
+follow these steps. First, you will type convert -list font |grep Font|sed -e
+"s/.*://g" > fonts.txt in order to get a text file with all of the fonts in 
+the machine.next, we will start by making a for loop with the name font in and
+pull the text file with $(cat fonts.txt); .Then we will just type do and put
+the usual convert code just changing the -font to have "$font" and the name
+to have "$font"_ninja.gif; done. that will make many images with each having
+different fonts.  
+
+

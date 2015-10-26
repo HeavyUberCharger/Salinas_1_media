@@ -1,0 +1,8 @@
+How might one use for loops with gradients? 
+
+you would use loops with gradients by applying them in the color parameters.
+for example, add 2 for loops in the beginning each having a unique name and
+having a list of colors in them. next, where color is needed change it to the
+for loop names for both color parameters. finally, make the name of the files
+have the color input from the for loops so they are all worded differently and
+not overide each other.

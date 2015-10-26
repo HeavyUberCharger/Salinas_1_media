@@ -1,0 +1,11 @@
+What successes have you had in making your images?
+So far i had great successs in making my images and making gifs out of them.
+
+How do we use "for" for loops to create images?
+we use for loops by adding them in the beginning of our program, then
+list all of the colors that we want it to loop through, and incoporate
+that loop into our code, mostly by $NAMEOFLOOP
+
+sed is used to replace and edit text. How might we use a text-replacement program to generate more gifs with a for loop?
+we can tell it to change certain words of phrases in the passage with the for loop going trough each phrase we added
+then making a gif out of it.

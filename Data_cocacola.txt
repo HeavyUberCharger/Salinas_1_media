@@ -1,0 +1,20 @@
+<markup>
+<span foreground = "red">
+<span font = "lokicola"><span size="50000">CoCa Cola Fundraiser</span></span>
+<span> </span>
+
+<span> <b>Order Your Cases today!</b> </span> 
+
+<span> Money and Orders due to Mrs.Arroyo no later than friday,octover 9 </span>
+<span> </span>
+
+<span> Products pick up @DATA parking lot:saturday,october 17| 9 am-11 am </span>
+<span> </span>
+
+<span> The top two Data salesman wll each win a free pizza dinner for four at pizza hut! </span>
+
+<span> </span>
+<span> </span>
+<span underline="single"> Help support extracurricular field trips for Data!</span>
+</span>
+</markup>

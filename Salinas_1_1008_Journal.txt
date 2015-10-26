@@ -1,0 +1,8 @@
+How might one use gradenients to make art programatically? 
+gradenients could be used to make a form of abstract art, making a
+bunch of them with different color patterns could give us interesting results.
+
+How might you use for loops, gradients, and labels together? gifs?
+we could use for loops to make a bunch of pictures with different colors,
+labels to give it somekind of message to the picture, and combine them all
+the images together to make gifs.
