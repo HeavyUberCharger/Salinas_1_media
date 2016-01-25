@@ -1,0 +1,12 @@
+What is perseverance?
+Perseverance is the persistence of doing something even if its hard or long to do. 
+
+How does one (iteratively) solve problems?
+One solves problems by asking questions and using previous knowlege and apply it to the problem.
+
+Imagine you have been given the task of repairing a computer. You have a stack of disks. You have been told that one of them works.
+You start up the computer and the first disk does not work. What do you do? How do you solve the problem? Give very specific instructions / descriptions!
+What you could do is find what made that specific disk not work, if other disk have the same problem then set them aside aswell. After that you can slowly start to narrow
+down the problems with previous disk to get the one that does work going in. Its just a simple proccess of ilimination that can easily fix the problem. 
+
+
