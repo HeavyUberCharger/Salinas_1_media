@@ -1,0 +1,31 @@
+Fingerprint sensor-Detects and scans fingerprints when a finger is placed
+on it.We might use it for a Safe or some kind of protection project.It cost
+49.95 https://www.adafruit.com/products/751
+
+Muscle Sensor Surface EMG Electrodes - H124SG Covidien - Pack of 6-Looks for
+the electrical activity produced from your muscles and records the data into
+the rassberry pi.We might use this to make some kind of hand controller that
+moves a direction based on what muscle you move.It cost $4.95 
+https://www.adafruit.com/products/2773
+
+Pulse Sensor Amped- Measures your heart-rate when placed on a finger.We can
+use this When making a fitness game or some kind of experiment that requires
+your heart rate. It cost $25.00 https://www.adafruit.com/products/1093
+
+Soil Temperature/Moisture Sensor - SHT10 - This sensor measures the moisture 
+and tempeture of soil and sends it to any computer. This can be used when
+making somekind of weather report project. It cost $49.95 
+https://www.adafruit.com/products/1298
+
+Melexis Contact-less Infrared Sensor - MLX90614 3V- This sensor measures
+infared light that bounces off of it and sends the information to a computer.
+We can use this as a alarm system or spy project.It cost $15.95 
+https://www.adafruit.com/products/1747
+
+I find the Muscle sensor the most interesting because it can be easily
+configured and set up to make a fun interactive controller anyone can use.
+The second most interesting sensor for me would be the Infared sensor because
+of the potential to make some kind of spy communication or alarm system that 
+can be set up on a door or window to alert of unwanter guest.The 3rd most 
+Interesting sensor to me would be the fingerptint sensor because we can use it
+for somekind of interactive safe that only certain people have access to. 
