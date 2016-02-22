@@ -1,4 +1,0 @@
-What is git? Why do we use it?
-
-git is a cloud were we can put code and other files in that others
-can see. we use it so we can easily submit our work online and have it graded.
