@@ -1,0 +1,15 @@
+1: The first problem I faced while making my project is the simple coe that
+plays a sound and displays a picture based on the input given(either pressing
+1 or 2). Having to quickly learn python for the first time I managed to get it
+done.
+
+2: The second problem I faced was the order and installation of the PI camera
+module. I had to watch tutorials and get the parts in order to sucessfully 
+install the camera and make it work.
+
+3: The third problem that I am facing currently is making the QR code scanner
+working and be able to translate them into a line of text. I had tried many
+different programs and methods to get this working but with no luck. Right 
+now I am trying to change my system to a bar code scanner so that it would
+hopefully be much more easy to accomplish my goal.
+
